@@ -3,13 +3,13 @@ I'm a Fullstack and Software developer who is creating technology, and building 
 
 ### About me 👦🏽:
 - 🌱 I’m currently studying Telecommunication Engineering 
-- 🔭 I’m currently working on [Applus](https://applus.com/)
-- 📃 Backend Applications Development Certificate
+- 📃 Backend Applications Development Certificate 
+- NDG Linux Essencials - Cisco Networking Academy
 
 ### Skills ⚡️:
 - VueJS
 - ReactJS
-- PHP (Laravel, CodeIgniter)
+- PHP (Laravel, CodeIgniter, Symphony)
 - NodeJS (Express.js)
 - C# (.NET) 
 - Spring JAVA
