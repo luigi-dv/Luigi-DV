@@ -9,7 +9,9 @@ I'm a Fullstack and Software developer who is creating technology, and building 
 ### Skills ⚡️:
 - VueJS
 - ReactJS
+- TypeScript
 - PHP (Laravel, CodeIgniter, Symphony)
+- Deno
 - NodeJS (Express.js)
 - C# (.NET) 
 - Spring JAVA
