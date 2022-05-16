@@ -21,5 +21,5 @@ I'm a Fullstack and Software developer who is creating technology, and building 
 - 🌎 [Website](https://luigelo.ldvloper.com/)
 - 💼 [LinkedIn](https://linkedin.com/in/luigelo-davila/)
 - 💬 [luigelo@ldvloper.com](mailto:luigelo@ldvloper.com)
-- 🏓 [Twitch](https://twitch.com/s0ulk1ll4r/)
+- 🏓 [Twitch](https://twitch.com/s0ulk0d3r/)
 
