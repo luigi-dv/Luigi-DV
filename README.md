@@ -10,15 +10,19 @@ I'm a Fullstack and Software developer who is creating technology, and building 
 - NDG Linux Essencials - Cisco Networking Academy
 
 ### Skills ⚡️:
-- VueJS
-- ReactJS
-- TypeScript
-- PHP (Laravel, CodeIgniter, Symphony)
-- Deno
-- NodeJS (Express.js)
-- C# (.NET) 
-- Spring JAVA
-- AWS
+ #### Languages, Frameworks, Libraries & Techs
+  - ⚛️ ReactJS
+  - ⌨️ TypeScript
+  - 🐍 Python (FastAPI, Django, Flask)
+  - 🐘 PHP (Laravel, CodeIgniter, Symphony)
+  - 🦖 Deno
+  - ⏭️ Next.JS
+  - NodeJS (Express.js)
+  - C# (.NET) 
+  - Java (Spring)
+  #### Cloud
+  - ☁️ AWS
+  - ☁️ Azure
 
 ### Find me around the web 🌎:
 - 🌎 [Website](https://luigelo.ldvloper.com/)
