@@ -2,7 +2,8 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Luigi-DV)
 ## Hello I'm Luigi
-I'm a Fullstack and Software developer who is creating technology, and building community. My interest in Web Application and Software led me to launch Ldvloper, a community for developers around the world.
+I'm a Fullstack and Software developer with tech specialization in React and .NET (C#).
+My interest in Web Application and Software led me to launch Ldvloper, a company and online community for developers around the world.
 
 ### About me 👦🏽:
 - 🌱 I’m currently studying Telecommunication Engineering 
@@ -17,8 +18,7 @@ I'm a Fullstack and Software developer who is creating technology, and building 
   - 🐘 PHP (Laravel, CodeIgniter, Symphony)
   - 🦖 Deno
   - ⏭️ Next.JS
-  - NodeJS (Express.js)
-  - C# (.NET) 
+  - C# (.NET - ASP Core) 
   - Java (Spring)
   #### Cloud
   - ☁️ AWS
