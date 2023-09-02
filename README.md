@@ -2,11 +2,12 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Luigi-DV)
 ## Hello I'm Luigi
-I'm a Fullstack and Software developer with tech specialization in React and .NET (C#).
+I'm a Software developer with Tech Specialization in React and .NET (C#).
 My interest in Web Application and Software led me to launch Ldvloper, a company and online community for developers around the world.
 
 ### About me 👦🏽:
-- 🌱 I’m currently studying Telecommunication Engineering 
+- Currently studying Computer Science at Maastricht University
+- Graduated on Telecommunication Engineer
 - 📃 Backend Applications Development Certificate 
 - NDG Linux Essencials - Cisco Networking Academy
 
