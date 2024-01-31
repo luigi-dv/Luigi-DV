@@ -2,7 +2,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Luigi-DV)
 ## Hello I'm Luigi
-I'm a Software developer with Tech Specialization in React and .NET (C#).
+I'm a Software developer with Tech Specialization in NextJS, .NET (C#) and Python Microservices architecture.
 My interest in Web Application and Software led me to launch Ldvloper, a company and online community for developers around the world.
 
 ### About me 👦🏽:
