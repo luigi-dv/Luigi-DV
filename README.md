@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <b>🟢 Open to:</b> senior full-stack or iOS roles · remote across the EU or B2B contracts · React, Swift/SwiftUI, Python/FastAPI, AWS/Azure
+</p>
+
+<p align="center">
   <a href="https://luigelo.ldvloper.com"><img alt="Website" src="https://img.shields.io/badge/Website-luigelo.ldvloper.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/luigelo-davila/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-luigelo--davila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:luigelo@ldvloper.com"><img alt="Email" src="https://img.shields.io/badge/Email-luigelo%40ldvloper.com-D14836?style=for-the-badge"/></a>
@@ -24,7 +28,7 @@ I like small, verified steps: ship progressively, run things in shadow mode, and
 
 | | |
 |---|---|
-| 📱 **[Zoloo](https://www.zoloo.co)** (formerly Boloo) | Software Engineer, mobile and full-stack. I own the native iOS app ([Swift/SwiftUI](https://apps.apple.com/nl/app/zoloo/id1548700832), with passkey sign-in, sales dashboards and an AI assistant) and lead the move of core domains from a monolith to Python/FastAPI microservices, including **40M+ records migrated with zero data loss**. → [Read the case study](https://luigelo.ldvloper.com/work/invoicing-migration) |
+| 📱 **[Zoloo](https://www.zoloo.co)** (formerly Boloo) | Senior Software Engineer (Mobile & Full-Stack). I own the native iOS app ([Swift/SwiftUI](https://apps.apple.com/nl/app/zoloo/id1548700832), with passkey sign-in, sales dashboards and an AI assistant) and lead the move of core domains from a monolith to Python/FastAPI microservices, including **40M+ records migrated with zero data loss**. → [Read the case study](https://luigelo.ldvloper.com/work/invoicing-migration) |
 | 🧩 **[Syncflow](https://syncflow.me)** | An AI goal planner that turns any goal into small, time-estimated steps and hands them to you one at a time. Web and native iOS, built solo, **1,200+ users**. Includes *Autopilot*, an agent that always asks before finishing anything. → [Get the iOS app](https://apps.apple.com/us/app/syncflow-ai-goal-planner/id6792511758) · [How I built Autopilot](https://luigelo.ldvloper.com/work/syncflow-autopilot) |
 | 🏗️ **[Ldvloper](https://ldvloper.com)** | My Warsaw software studio: client engineering, my own products, and architecture, cloud and security audits with hands-on remediation. |
 
@@ -62,13 +66,3 @@ I like small, verified steps: ship progressively, run things in shadow mode, and
 - 🌐 [Website and case studies](https://luigelo.ldvloper.com/)
 - 💼 [LinkedIn](https://linkedin.com/in/luigelo-davila/)
 - 💬 [luigelo@ldvloper.com](mailto:luigelo@ldvloper.com)
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Luigi-DV&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luigi-DV&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=luigi-dv&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
