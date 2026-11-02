@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>🟢 Open to:</b> senior full-stack or iOS roles · remote across the EU or B2B contracts · React, Swift/SwiftUI, Python/FastAPI, AWS/Azure
+  <b>🟢 Open to:</b> full-stack or iOS roles · remote across the EU or B2B contracts · React, Swift/SwiftUI, Python/FastAPI, AWS/Azure
 </p>
 
 <p align="center">
